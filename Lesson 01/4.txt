@@ -1,0 +1,8 @@
+4. Выберите три рабочих URL на любых ресурсах, которые содержат:
+URL-путь с двумя или тремя вложениями;
+несколько GET-параметров;
+идентификатор якоря.
+
+https://shikimori.one/mangas/49381-steins-gate-heiji-kyokusen-no-epigraph
+https://mangalib.me/steinsgate-heiji-kyokusen-no-epigraph?section=info&ui=36389
+https://readmanga.live/steins_gate___epigraph_of_the_closed_curve
